@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/resolvconf'
+let g:netrw_dirhist_2='/home/srinidhi/projects/complyeasy/app'
+let g:netrw_dirhist_3='/home/srinidhi/projects/master_data'
+let g:netrw_dirhist_4='/home/srinidhi/projects/complyeasy'
+let g:netrw_dirhist_5='/home/srinidhi/.config/awesome'
+let g:netrw_dirhist_6='/etc/update-motd.d'
+let g:netrw_dirhist_7='/home/srinidhi/Documents/angular'
